@@ -11,7 +11,7 @@ A comprehensive Role-Based Access Control (RBAC) dashboard built with React, Mat
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/yourusername/rbac-dashboard.git
+git clone https://github.com/Atulsingh1155/RBAC-UI-Based-Project-.git
 cd rbac-dashboard
 npm install
 npm run dev
