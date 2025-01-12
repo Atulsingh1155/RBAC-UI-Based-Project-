@@ -1,4 +1,3 @@
-import React from 'react';
 import { Routes, Route } from 'react-router-dom';
 import { useTheme, useMediaQuery } from '@mui/material';
 import Navbar from './components/Navbar';
