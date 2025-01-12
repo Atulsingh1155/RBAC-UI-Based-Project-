@@ -27,8 +27,6 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 .pnpm-debug.log*
-logs
-*.log
 
 # IDE & Editor files
 .idea/
@@ -36,12 +34,7 @@ logs
 *.swp
 *.swo
 .DS_Store
-*.sublime-project
-*.sublime-workspace
 
 # Vite
 .vite/
-*.local
-
-# Build files
 dist

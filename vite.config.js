@@ -3,6 +3,7 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
+  base: '/RBAC-UI-Based-Project-/', // Add this - should match your repository name
   server: {
     port: 3000,
     open: true,
